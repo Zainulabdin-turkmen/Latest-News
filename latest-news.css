@@ -14,3 +14,7 @@ h1 {
     display: flex;
     justify-content: space-between;
 }
+
+.p1 {
+    font-size: 14px;
+}
