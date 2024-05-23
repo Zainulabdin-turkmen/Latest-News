@@ -19,7 +19,9 @@ h1 {
     margin-bottom: 15px;
 }
 
-
+.div-2 {
+    display: flex;
+}
 
 
 .p1 {
