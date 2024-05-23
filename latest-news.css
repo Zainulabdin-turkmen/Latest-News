@@ -15,7 +15,7 @@ h1 {
 h1::before {
     position: absolute;
     content: 'N';
-
+    font-size: 300px;
 }
 
 .container {
