@@ -1,45 +1,43 @@
 body {
-    margin: 0;
-    background-color: #FCF5EB;
+  margin: 0;
+  background-color: #fcf5eb;
 }
 
 main {
-    padding: 1.5rem;
-    padding-top: 5rem;
+  padding: 1.5rem;
+  padding-top: 5rem;
 }
 
 h1 {
-    font-size: 45px;
-    margin-bottom: 15px;
-    position: relative;
+  font-size: 45px;
+  margin-bottom: 15px;
+  position: relative;
 }
 
-
-
-
 h1::before {
-    position: absolute;
-    content: 'N';
-    font-size: 300px;
-    top: -9rem;
-    left: -5rem;
-    opacity: .09;
-    font-weight: 400;
+  position: absolute;
+  content: "N";
+  font-size: 300px;
+  top: -9rem;
+  left: -5rem;
+  opacity: 0.09;
+  font-weight: 400;
 }
 
 .container {
-    display: flex;
-    justify-content: space-between;
-    border-top: 1px solid gray;
-    flex-direction: column;
-    gap: 1rem;
+  display: flex;
+  justify-content: space-between;
+  border-top: 1px solid gray;
+  flex-direction: column;
+
+  gap: 1rem;
 }
 
 .container h3 {
-    font-size: 22px;
-    margin-bottom: 0;
+  font-size: 22px;
+  margin-bottom: 0;
 }
 
 .container p {
-    font-size: 14px;
+  font-size: 14px;
 }
