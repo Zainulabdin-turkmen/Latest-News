@@ -1,7 +1,10 @@
 body {
-    margin-left: 135px;
-    margin-right: 135px;
+    margin: 0;
     background-color: #FCF5EB;
+}
+
+main {
+    padding: 2.4rem;
 }
 
 h1 {
@@ -10,6 +13,8 @@ h1 {
     margin-bottom: 15px;
     position: relative;
 }
+
+
 
 
 h1::before {
