@@ -4,11 +4,11 @@ body {
 }
 
 main {
-    padding: 2.4rem;
+    padding: 1.5rem;
+    padding-top: 5rem;
 }
 
 h1 {
-    margin-top: 150px;
     font-size: 45px;
     margin-bottom: 15px;
     position: relative;
