@@ -61,4 +61,8 @@ h1::before {
   section {
     display: unset;
   }
+
+  .container {
+    flex-direction: row;
+  }
 }
