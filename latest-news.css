@@ -56,6 +56,7 @@ h1::before {
   main {
     padding: 8rem;
     padding-top: 9.1rem;
+    max-width: 1200px !important;
   }
   section {
     gap: 3.5rem;
