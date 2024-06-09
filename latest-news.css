@@ -41,4 +41,12 @@ h1::before {
 }
 
 @media only screen and (min-width: 744px) {
+  main {
+    padding: 3.8rem;
+    padding-top: 9rem;
+  }
+
+  section {
+    display: flex;
+  }
 }
