@@ -48,5 +48,6 @@ h1::before {
 
   section {
     display: flex;
+    gap: 2rem;
   }
 }
