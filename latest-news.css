@@ -57,8 +57,12 @@ h1::before {
     padding: 8rem;
     padding-top: 9.1rem;
   }
+  section {
+    /* gap: 3.5rem; */
+  }
 
   .container {
     flex-direction: row;
+    gap: 3.5rem;
   }
 }
