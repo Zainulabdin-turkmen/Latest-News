@@ -58,7 +58,7 @@ h1::before {
     padding-top: 9.1rem;
   }
   section {
-    /* gap: 3.5rem; */
+    gap: 3.5rem;
   }
 
   .container {
