@@ -58,10 +58,6 @@ h1::before {
     padding-top: 9.1rem;
   }
 
-  section {
-    display: unset;
-  }
-
   .container {
     flex-direction: row;
   }
