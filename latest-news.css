@@ -57,4 +57,8 @@ h1::before {
     padding: 8rem;
     padding-top: 9.1rem;
   }
+
+  section {
+    display: unset;
+  }
 }
